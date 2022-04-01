@@ -1,0 +1,13 @@
+C:\Users\huudu\Documents\Informatik\WetterStation\Wetterstation\Wetterstation\obj\Debug\Wetterstation.vbproj.AssemblyReference.cache
+C:\Users\huudu\Documents\Informatik\WetterStation\Wetterstation\Wetterstation\obj\Debug\Wetterstation.vbproj.SuggestedBindingRedirects.cache
+C:\Users\huudu\Documents\Informatik\WetterStation\Wetterstation\Wetterstation\obj\Debug\Wetterstation.Resources.resources
+C:\Users\huudu\Documents\Informatik\WetterStation\Wetterstation\Wetterstation\obj\Debug\Wetterstation.vbproj.GenerateResource.cache
+C:\Users\huudu\Documents\Informatik\WetterStation\Wetterstation\Wetterstation\obj\Debug\Wetterstation.vbproj.CoreCompileInputs.cache
+C:\Users\huudu\Documents\Informatik\WetterStation\Wetterstation\Wetterstation\bin\Debug\Wetterstation.exe.config
+C:\Users\huudu\Documents\Informatik\WetterStation\Wetterstation\Wetterstation\bin\Debug\Wetterstation.exe
+C:\Users\huudu\Documents\Informatik\WetterStation\Wetterstation\Wetterstation\bin\Debug\Wetterstation.pdb
+C:\Users\huudu\Documents\Informatik\WetterStation\Wetterstation\Wetterstation\bin\Debug\Wetterstation.xml
+C:\Users\huudu\Documents\Informatik\WetterStation\Wetterstation\Wetterstation\obj\Debug\Wetterstation.exe
+C:\Users\huudu\Documents\Informatik\WetterStation\Wetterstation\Wetterstation\obj\Debug\Wetterstation.xml
+C:\Users\huudu\Documents\Informatik\WetterStation\Wetterstation\Wetterstation\obj\Debug\Wetterstation.pdb
+C:\Users\huudu\Documents\Informatik\WetterStation\Wetterstation\Wetterstation\obj\Debug\Wetterstation.Wetterstation.resources
